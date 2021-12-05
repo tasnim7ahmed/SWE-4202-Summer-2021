@@ -1,0 +1,5 @@
+E:\Development\C#\LMS-Class_Lib\bin\Debug\LMS-Class_Lib.dll
+E:\Development\C#\LMS-Class_Lib\bin\Debug\LMS-Class_Lib.pdb
+E:\Development\C#\LMS-Class_Lib\obj\Debug\LMS-Class_Lib.csproj.CoreCompileInputs.cache
+E:\Development\C#\LMS-Class_Lib\obj\Debug\LMS-Class_Lib.dll
+E:\Development\C#\LMS-Class_Lib\obj\Debug\LMS-Class_Lib.pdb

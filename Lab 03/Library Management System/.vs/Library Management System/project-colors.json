@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "225ed8fa-6ace-4269-86a2-0a31d8cf8b53": {
+      "ProjectGuid": "225ed8fa-6ace-4269-86a2-0a31d8cf8b53",
+      "DisplayName": "Library Management System",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
