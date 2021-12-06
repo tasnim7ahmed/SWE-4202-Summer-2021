@@ -1,0 +1,8 @@
+E:\Development\C#\InheritanceTest\bin\Debug\InheritanceTest.exe.config
+E:\Development\C#\InheritanceTest\bin\Debug\InheritanceTest.exe
+E:\Development\C#\InheritanceTest\bin\Debug\InheritanceTest.pdb
+E:\Development\C#\InheritanceTest\obj\Debug\InheritanceTest.csproj.AssemblyReference.cache
+E:\Development\C#\InheritanceTest\obj\Debug\InheritanceTest.csproj.SuggestedBindingRedirects.cache
+E:\Development\C#\InheritanceTest\obj\Debug\InheritanceTest.csproj.CoreCompileInputs.cache
+E:\Development\C#\InheritanceTest\obj\Debug\InheritanceTest.exe
+E:\Development\C#\InheritanceTest\obj\Debug\InheritanceTest.pdb
