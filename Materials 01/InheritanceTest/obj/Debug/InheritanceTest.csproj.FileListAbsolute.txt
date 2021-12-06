@@ -6,3 +6,11 @@ E:\Development\C#\InheritanceTest\obj\Debug\InheritanceTest.csproj.SuggestedBind
 E:\Development\C#\InheritanceTest\obj\Debug\InheritanceTest.csproj.CoreCompileInputs.cache
 E:\Development\C#\InheritanceTest\obj\Debug\InheritanceTest.exe
 E:\Development\C#\InheritanceTest\obj\Debug\InheritanceTest.pdb
+E:\Development\C#\SWE 4202 - Summer 2021\SWE-4202-Summer-2021\Materials 01\InheritanceTest\bin\Debug\InheritanceTest.exe.config
+E:\Development\C#\SWE 4202 - Summer 2021\SWE-4202-Summer-2021\Materials 01\InheritanceTest\bin\Debug\InheritanceTest.exe
+E:\Development\C#\SWE 4202 - Summer 2021\SWE-4202-Summer-2021\Materials 01\InheritanceTest\bin\Debug\InheritanceTest.pdb
+E:\Development\C#\SWE 4202 - Summer 2021\SWE-4202-Summer-2021\Materials 01\InheritanceTest\obj\Debug\InheritanceTest.csproj.AssemblyReference.cache
+E:\Development\C#\SWE 4202 - Summer 2021\SWE-4202-Summer-2021\Materials 01\InheritanceTest\obj\Debug\InheritanceTest.csproj.SuggestedBindingRedirects.cache
+E:\Development\C#\SWE 4202 - Summer 2021\SWE-4202-Summer-2021\Materials 01\InheritanceTest\obj\Debug\InheritanceTest.csproj.CoreCompileInputs.cache
+E:\Development\C#\SWE 4202 - Summer 2021\SWE-4202-Summer-2021\Materials 01\InheritanceTest\obj\Debug\InheritanceTest.exe
+E:\Development\C#\SWE 4202 - Summer 2021\SWE-4202-Summer-2021\Materials 01\InheritanceTest\obj\Debug\InheritanceTest.pdb

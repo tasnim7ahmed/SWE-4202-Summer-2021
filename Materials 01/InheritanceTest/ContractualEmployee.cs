@@ -12,7 +12,7 @@ namespace InheritanceTest
 
         public string getTransportation()
         {
-            return "Transportation is Available!";
+            return "Transportation is Available for " + this.name + "!\n";
         }
     }
 }

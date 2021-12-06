@@ -29,6 +29,7 @@ namespace InheritanceTest
 
             Console.WriteLine("---Printing From Derived(Permanent Employee) Class---");
             Console.WriteLine(pemp1.getInfo());
+            Console.WriteLine(pemp1.getHealthBenefits());
 
             ContractualEmployee cemp1 = new ContractualEmployee();
             cemp1.id = 3;
@@ -39,6 +40,7 @@ namespace InheritanceTest
 
             Console.WriteLine("---Printing From Derived(Contractual Employee) Class---");
             Console.WriteLine(cemp1.getInfo());
+            Console.WriteLine(cemp1.getTransportation());
 
             Console.ReadKey();
         }

@@ -12,7 +12,7 @@ namespace InheritanceTest
 
         public string getHealthBenefits()
         {
-            return "Health Benefit is Available!";
+            return "Health Benefit is Available for "+this.name+"!\n";
         }
 
     }
