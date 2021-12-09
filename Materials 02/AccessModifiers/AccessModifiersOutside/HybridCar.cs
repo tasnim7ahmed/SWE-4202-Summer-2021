@@ -16,7 +16,7 @@ namespace AccessModifiersOutside
             Console.WriteLine(this.doors);
         }
 
-        public ElectricCar(int wheels) : base(wheels)
+        public HybridCar(int wheels) : base(wheels)
         {
 
         }

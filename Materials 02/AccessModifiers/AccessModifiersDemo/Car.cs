@@ -11,5 +11,10 @@ namespace AccessModifiersDemo
          protected int wheels;
          protected internal int doors;
 
+        public Car(int wheels)
+        {
+            this.wheels = wheels;
+        }
+
     }
 }

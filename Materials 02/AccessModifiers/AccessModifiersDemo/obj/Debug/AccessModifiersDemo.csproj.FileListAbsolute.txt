@@ -1,0 +1,8 @@
+E:\Development\C#\SWE 4202 - Summer 2021\SWE-4202-Summer-2021\Materials 02\AccessModifiers\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.exe.config
+E:\Development\C#\SWE 4202 - Summer 2021\SWE-4202-Summer-2021\Materials 02\AccessModifiers\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.exe
+E:\Development\C#\SWE 4202 - Summer 2021\SWE-4202-Summer-2021\Materials 02\AccessModifiers\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.pdb
+E:\Development\C#\SWE 4202 - Summer 2021\SWE-4202-Summer-2021\Materials 02\AccessModifiers\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csproj.AssemblyReference.cache
+E:\Development\C#\SWE 4202 - Summer 2021\SWE-4202-Summer-2021\Materials 02\AccessModifiers\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csproj.SuggestedBindingRedirects.cache
+E:\Development\C#\SWE 4202 - Summer 2021\SWE-4202-Summer-2021\Materials 02\AccessModifiers\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csproj.CoreCompileInputs.cache
+E:\Development\C#\SWE 4202 - Summer 2021\SWE-4202-Summer-2021\Materials 02\AccessModifiers\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.exe
+E:\Development\C#\SWE 4202 - Summer 2021\SWE-4202-Summer-2021\Materials 02\AccessModifiers\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.pdb
