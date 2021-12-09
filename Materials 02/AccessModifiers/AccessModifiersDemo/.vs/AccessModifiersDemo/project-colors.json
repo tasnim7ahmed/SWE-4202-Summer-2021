@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4696c0e3-dbc3-4392-8632-4044754a0998": {
+      "ProjectGuid": "4696c0e3-dbc3-4392-8632-4044754a0998",
+      "DisplayName": "AccessModifiersDemo",
+      "ColorIndex": 0
+    },
+    "16cfc7fc-3354-48f9-bb2a-482a6443f6b9": {
+      "ProjectGuid": "16cfc7fc-3354-48f9-bb2a-482a6443f6b9",
+      "DisplayName": "AccessModifiersOutside",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
