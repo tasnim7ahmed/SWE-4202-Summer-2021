@@ -1,0 +1,8 @@
+E:\Development\C#\OperatorOverloadingTest\bin\Debug\OperatorOverloadingTest.exe.config
+E:\Development\C#\OperatorOverloadingTest\bin\Debug\OperatorOverloadingTest.exe
+E:\Development\C#\OperatorOverloadingTest\bin\Debug\OperatorOverloadingTest.pdb
+E:\Development\C#\OperatorOverloadingTest\obj\Debug\OperatorOverloadingTest.csproj.AssemblyReference.cache
+E:\Development\C#\OperatorOverloadingTest\obj\Debug\OperatorOverloadingTest.csproj.SuggestedBindingRedirects.cache
+E:\Development\C#\OperatorOverloadingTest\obj\Debug\OperatorOverloadingTest.csproj.CoreCompileInputs.cache
+E:\Development\C#\OperatorOverloadingTest\obj\Debug\OperatorOverloadingTest.exe
+E:\Development\C#\OperatorOverloadingTest\obj\Debug\OperatorOverloadingTest.pdb
