@@ -1,0 +1,6 @@
+/Users/tasnimahmed/Desktop/Development/LINQBasics/LINQBasics/bin/Debug/LINQBasics.exe
+/Users/tasnimahmed/Desktop/Development/LINQBasics/LINQBasics/bin/Debug/LINQBasics.pdb
+/Users/tasnimahmed/Desktop/Development/LINQBasics/LINQBasics/obj/Debug/LINQBasics.csproj.AssemblyReference.cache
+/Users/tasnimahmed/Desktop/Development/LINQBasics/LINQBasics/obj/Debug/LINQBasics.csproj.CoreCompileInputs.cache
+/Users/tasnimahmed/Desktop/Development/LINQBasics/LINQBasics/obj/Debug/LINQBasics.exe
+/Users/tasnimahmed/Desktop/Development/LINQBasics/LINQBasics/obj/Debug/LINQBasics.pdb

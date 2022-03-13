@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{5DA8A6F0-F5AE-4C68-B885-5BFF100D5C33}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LINQBasics/PartitionOp.cs">
+    <Files>
+      <File FileName="LINQBasics/Program.cs" Line="19" Column="49" />
+      <File FileName="LINQBasics/RestrictionOp.cs" />
+      <File FileName="LINQBasics/Product.cs" />
+      <File FileName="LINQBasics/ProjectionOp.cs" Line="25" Column="13" />
+      <File FileName="LINQBasics/Customer.cs" />
+      <File FileName="LINQBasics/PartitionOp.cs" Line="62" Column="49" />
+      <File FileName="LINQBasics/OrderingOp.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LINQBasics" expanded="True">
+            <Node name="LINQBasics" expanded="True">
+              <Node name="PartitionOp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LINQBasics PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
