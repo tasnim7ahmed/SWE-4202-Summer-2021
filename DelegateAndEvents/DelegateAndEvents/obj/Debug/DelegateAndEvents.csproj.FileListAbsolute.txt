@@ -1,0 +1,6 @@
+/Users/tasnimahmed/Desktop/Development/SWE-4202-Summer-2021/DelegateAndEvents/DelegateAndEvents/bin/Debug/DelegateAndEvents.exe
+/Users/tasnimahmed/Desktop/Development/SWE-4202-Summer-2021/DelegateAndEvents/DelegateAndEvents/bin/Debug/DelegateAndEvents.pdb
+/Users/tasnimahmed/Desktop/Development/SWE-4202-Summer-2021/DelegateAndEvents/DelegateAndEvents/obj/Debug/DelegateAndEvents.csproj.AssemblyReference.cache
+/Users/tasnimahmed/Desktop/Development/SWE-4202-Summer-2021/DelegateAndEvents/DelegateAndEvents/obj/Debug/DelegateAndEvents.csproj.CoreCompileInputs.cache
+/Users/tasnimahmed/Desktop/Development/SWE-4202-Summer-2021/DelegateAndEvents/DelegateAndEvents/obj/Debug/DelegateAndEvents.exe
+/Users/tasnimahmed/Desktop/Development/SWE-4202-Summer-2021/DelegateAndEvents/DelegateAndEvents/obj/Debug/DelegateAndEvents.pdb

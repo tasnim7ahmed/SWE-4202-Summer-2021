@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{34E31F3B-9E26-4D5D-A101-D6805A5FDD87}|Default">
+  <MonoDevelop.Ide.ItemProperties.DelegateAndEvents PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DelegateAndEvents/Program.cs">
+    <Files>
+      <File FileName="DelegateAndEvents/Program.cs" Line="26" Column="6" />
+      <File FileName="DelegateAndEvents/DelegateExample.cs" Line="6" Column="73" />
+      <File FileName="DelegateAndEvents/StudentAdmission.cs" Line="35" Column="56" />
+      <File FileName="DelegateAndEvents/Student.cs" Line="12" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DelegateAndEvents" expanded="True">
+            <Node name="DelegateAndEvents" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
